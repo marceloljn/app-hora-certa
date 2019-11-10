@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace app_hora_certa.Controllers
 {
-    [Route("v2/[controller]")]
+    [Route("v1/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
