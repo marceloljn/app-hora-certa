@@ -1,0 +1,14 @@
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/bin/Debug/netcoreapp2.2/app-hora-certa.deps.json
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/bin/Debug/netcoreapp2.2/app-hora-certa.runtimeconfig.json
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/bin/Debug/netcoreapp2.2/app-hora-certa.runtimeconfig.dev.json
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/bin/Debug/netcoreapp2.2/app-hora-certa.dll
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/bin/Debug/netcoreapp2.2/app-hora-certa.pdb
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.csprojAssemblyReference.cache
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.csproj.CoreCompileInputs.cache
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.RazorAssemblyInfo.cache
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.RazorAssemblyInfo.cs
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.AssemblyInfoInputs.cache
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.AssemblyInfo.cs
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.RazorTargetAssemblyInfo.cache
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.dll
+/Users/Marcelo/Documents/scripts/Estudo/dotnet/app-hora-certa/obj/Debug/netcoreapp2.2/app-hora-certa.pdb
