@@ -8,7 +8,7 @@ namespace app_hora_certa.Controllers
 {
     [Route("v1/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class HoraCertaController : ControllerBase
     {
         // GET api/values
         [HttpGet]
